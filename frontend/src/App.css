@@ -1,13 +1,8 @@
-.div{
-  align-content: center;
-  justify-items: center;
-  justify-content: center;
-};
-
-button{
-  font-weight: bold;
-};
-
-.textarea{
-  box-shadow:  0 0 5px black;
+body {
+  background-color: rgb(54, 15, 15);
 }
+
+.App {
+	width: 100vw;
+}
+
